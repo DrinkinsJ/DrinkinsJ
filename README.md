@@ -2,5 +2,5 @@
 
 ## About Me
 - I'm Igor, a 30-year-old programmer from Moscow. 💻
-- Currently learning Java at Job4j.[Job4j](https://job4j.ru/) ☕
+- Currently learning Java at [Job4j](https://job4j.ru/). ☕
 - I have 3 years of experience in Java programming. ⌚
