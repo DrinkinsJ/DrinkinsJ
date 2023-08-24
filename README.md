@@ -1,5 +1,6 @@
 # <p align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> My name is Igor. Welcome! ✌️</p>
-## About Me
+
+## <p align="center">About me
 - I'm Igor, a 30-year-old programmer from Moscow. 💻
 - I have 3 years of experience in Java programming. ⌚
 
