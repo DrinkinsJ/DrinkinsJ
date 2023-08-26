@@ -53,14 +53,14 @@
 -->
 
 ## 📊 My Projects:
-1. [Console CRUD app using JDBC](https://github.com/DrinkinsJ/job4j_tracker)
-2. [Job grabber(HTML Parser using JSOP)](https://github.com/DrinkinsJ/job4j_grabber)
-3. [TodoList using Servlet API & Hibernate](https://github.com/DrinkinsJ/job4j_todo)
+1. [Car accident registration app using Spring](https://github.com/DrinkinsJ/job4j_accidents)
+2. [Console CRUD app using JDBC](https://github.com/DrinkinsJ/job4j_tracker)
+3. [Job grabber(HTML Parser using JSOP)](https://github.com/DrinkinsJ/job4j_grabber)
+4. [TodoList using Servlet API & Hibernate](https://github.com/DrinkinsJ/job4j_todo)
 5. [Car market using Servlet API & Hibernate](https://github.com/DrinkinsJ/job4j_cars)
 6. [Job market using Servlet API & Hibernate](https://github.com/DrinkinsJ/job4j_dreamjob)
-7. [Car accident registration app using Spring](https://github.com/DrinkinsJ/job4j_accidents)
-8. [REST API for TodoList using Spring](https://github.com/Drinkinsj/job4j_todo)
-9. [URL Shortcut service using Spring](https://github.com/DrinkinsJ/job4j_url_shortcut)
+7.[REST API for TodoList using Spring](https://github.com/Drinkinsj/job4j_todo)
+<!-- 9. [URL Shortcut service using Spring](https://github.com/DrinkinsJ/job4j_url_shortcut) -->
 
 
 ## 📊 GitHub Stats:
